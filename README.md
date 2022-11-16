@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [https://burakogutcen.web.tr](https://burakogutcen.web.tr)
+- 👨‍💻 All of my projects are available at [https://www.portfaria.com](https://www.portfaria.com)
 
-- 📝 I regularly write articles on [https://burakogutcen.web.tr](https://burakogutcen.web.tr)
+- 📝 I regularly write articles on [https://www.portfaria.com](https://www.portfaria.com)
 
 - 💬 Ask me about **php, html, css, js**
 
-- 📄 Know about my experiences [https://burakogutcen.web.tr](https://burakogutcen.web.tr)
+- 📄 Know about my experiences [https://portfaria.com](https://portfaria.com)
 
 - ⚡ Fun fact **full-stack dev**
 
